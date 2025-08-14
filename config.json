@@ -12,27 +12,27 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Silly B",
-    "PREFIX": "+",
+    "BOTNAME": "Xeno",
+    "PREFIX": "!",
     "OTHERBOT": [
         ""
     ],
     "UNSENTVIP": [
-        "61550558518720",
+        "100056625290989",
         ""
     ],
     "GOD": [
-        "61550558518720",
+        "100056625290989",
         ""
     ],
     "ADMINBOT": [
-        "100040426712109",
+        "100056625290989",
         ""
     ],
-    "OWNER": "🆁︎🆄︎🅳︎🆁︎🅰︎ 🅹︎🅰︎🅰︎🆃︎",
+    "OWNER": "Nerob",
     "AGE": "21",
     "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://www.facebook.com/share/15Z3vxfcBJ/",
+    "FACEBOOK": "https://www.facebook.com/100056625290989",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
@@ -53,7 +53,7 @@
     "AutoBioStatus": "enable",
     "AutoBioStatusSetPerHour": "1",
     "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞ℝ𝕦𝕕𝕣𝕒 𝕁𝕒𝕒𝕥☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℝ𝕦𝕕𝕣𝕒〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=61550558518720 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Rudra jaat☜",
-    "AutoLeave": "enable",
+    "AutoLeave": "disable",
     "RandomRedditMemes": "enable",
     "RandomRedditMemesSendPerHour": "1",
     "Randombibleverse": "disable",
