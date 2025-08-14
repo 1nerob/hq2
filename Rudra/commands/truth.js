@@ -159,3 +159,8 @@ const truthQuestions = [
   "তুমি কি কখনো কাউকে ফ্রেমে ছবি দিয়েছো?",
   "তুমি কি কখনো কাউকে ‘তুমি আমার প্রাণ’ বলেছো?"
 ];
+module.exports.run = function({ api, event }) {
+  const randomIndex = Math.floor(Math.random() * truthQuestions.length);
+  const question = truthQuestions[randomIndex];
+  return api.sendMessage(`❓ Truth Question:\n\n${question}`, event.threadID, event.messageID);
+};
